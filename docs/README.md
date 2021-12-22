@@ -1,0 +1,23 @@
+---
+home: true
+heroImage: /favicon.ico
+heroText: Blog-WJY
+tagline: 分享、存放个人前端学习笔记
+actionText: 关于作者 →
+actionLink: /about
+footer: MIT Licensed | Copyright © 2018-present Evan You
+---
+
+## 直达链接
+
+::: tip <p style="color:green;font-size:26px;margin-bottom:-5px">111</p>
+<a style="color:red;font-size:30px" href="/aa">:tada:项目 1:tada:</a>
+</br>
+<a style="color:red;font-size:30px" href="/aa">:tada:项目 2:tada:</a>
+</br>
+<a style="color:red;font-size:30px" href="/aa">:tada:小程序项目:tada:</a>
+</br>
+<a style="color:red;font-size:30px" href="/algorithm/leetcode/">:tada:LeetCode 刷题:tada:</a>
+</br>
+这是一个提示
+:::
