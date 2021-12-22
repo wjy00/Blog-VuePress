@@ -1,3 +1,4 @@
+// 导航栏配置
 module.exports = [{
   text: '🏠 主页',
   link: '/'

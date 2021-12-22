@@ -1,4 +1,9 @@
+// 导航栏配置
 const navConfig = require('./config/navConfig')
+// 插件配置
+const pluginConfig = require('./config/pluginConfig')
+// 侧边栏配置
+const sidebarConfig = require('./config/sidebarConfig')
 
 module.exports = {
   title: 'Blog-WJY',
@@ -12,5 +17,7 @@ module.exports = {
   themeConfig: {
     logo: '/assets/img/logo.png',
     nav: navConfig,
-  }
+    sidebar: sidebarConfig
+  },
+  plugins: pluginConfig
 }
