@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: /favicon.ico
+heroImage: /assets/img/home.png
 heroText: Blog-WJY
 tagline: 分享、存放个人前端学习笔记
-actionText: 关于作者 →
+actionText: 关于 →
 actionLink: /about
 footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
@@ -17,7 +17,7 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 </br>
 <a style="color:red;font-size:30px" href="/aa">:tada:小程序项目:tada:</a>
 </br>
-<a style="color:red;font-size:30px" href="/algorithm/leetcode/">:tada:LeetCode 刷题:tada:</a>
+<a style="color:red;font-size:30px" href="/interview/leetcode/">:tada:LeetCode 刷题:tada:</a>
 </br>
 这是一个提示
 :::

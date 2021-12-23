@@ -43,6 +43,17 @@ module.exports = [{
   text: '微信小程序',
   link: '/wxapp/'
 }, {
+  text: '其他知识',
+  items: [{
+      text: 'GIT',
+      link: '/others/git/'
+    }, {
+      text: 'WEBPACK',
+      link: '/others/webpack/'
+    }
+
+  ]
+}, {
   text: '⭐ 项目',
   items: [{
     text: '后台系统',
@@ -50,7 +61,7 @@ module.exports = [{
     target: '_blank'
   }, {
     text: 'echart监控系统',
-    link: 'https://www.baidu.com/',
+    link: 'https://www.google.com/',
     target: '_blank'
   }],
 }, {
