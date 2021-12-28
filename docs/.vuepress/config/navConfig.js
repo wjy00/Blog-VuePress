@@ -34,6 +34,9 @@ module.exports = [{
   text: 'JavaScript',
   link: '/javascript/'
 }, {
+  text: 'Node.js',
+  link: '/nodejs/'
+}, {
   text: '前端框架',
   items: [{
     text: 'vue',
@@ -45,14 +48,12 @@ module.exports = [{
 }, {
   text: '其他知识',
   items: [{
-      text: 'GIT',
-      link: '/others/git/'
-    }, {
-      text: 'WEBPACK',
-      link: '/others/webpack/'
-    }
-
-  ]
+    text: 'GIT',
+    link: '/others/git/'
+  }, {
+    text: 'WEBPACK',
+    link: '/others/webpack/'
+  }]
 }, {
   text: '⭐ 项目',
   items: [{
