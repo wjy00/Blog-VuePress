@@ -6,7 +6,6 @@ const pluginConfig = require('./config/pluginConfig')
 const sidebarConfig = require('./config/sidebarConfig')
 
 module.exports = {
-  base: "/Blog-VuePress/",
   title: 'Blog-WJY',
   description: 'WJY-Blog',
   head: [
