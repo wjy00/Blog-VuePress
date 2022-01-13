@@ -5,7 +5,6 @@ heroText: Blog-WJY
 tagline: 分享、存放个人前端学习笔记
 actionText: 关于 →
 actionLink: /about
-footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
 
 ## 直达链接
@@ -21,3 +20,5 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 </br>
 这是一个提示
 :::
+
+<p style="text-align:center;">MIT Licensed | Copyright © 2018-2022 WJY | ICP证：<a href="https://beian.miit.gov.cn" target="_blank" rel="noopener noreferrer">蜀ICP备2022001105号</a></p>
