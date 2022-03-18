@@ -57,12 +57,12 @@ module.exports = [{
 }, {
   text: '⭐ 项目',
   items: [{
-    text: '后台系统',
-    link: 'https://www.baidu.com/',
+    text: '后台管理系统项目',
+    link: 'http://demo.wjy00.top:8899/',
     target: '_blank'
   }, {
-    text: 'echart监控系统',
-    link: 'https://www.google.com/',
+    text: 'echart监控系统项目',
+    link: 'http://demo.wjy00.top:8888/',
     target: '_blank'
   }],
 }, {

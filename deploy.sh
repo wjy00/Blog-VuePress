@@ -23,3 +23,5 @@ git commit -m 'deploy'
 git push -f git@github.com:wjy00/Blog-VuePress.git master:gh-pages
 
 cd -
+
+# 在 git bash 中执行： yarn deploy 进行推送
