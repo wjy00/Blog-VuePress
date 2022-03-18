@@ -12,7 +12,7 @@ module.exports = [{
     text: "数据结构与算法",
     link: '/computer/sa/'
   }, {
-    text: '网络协议',
+    text: '计算机网络',
     link: '/computer/np/'
   }, {
     text: '操作系统',
