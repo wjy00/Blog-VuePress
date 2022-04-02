@@ -14,7 +14,7 @@ actionLink: /about
 
 <a style="color:rgb(62,175,124);font-size:28px" href="http://demo.wjy00.top:8899/" target="_blank">:tada: 后台管理系统项目 :tada:</a>
 </br>
-<a style="color:rgb(62,175,124);font-size:28px" href="http://demo.wjy00.top:8888/" target="_blank">:tada: echarts 后台监控项目 :tada:</a>
+<a style="color:rgb(62,175,124);font-size:28px" href="http://demo.wjy00.top:8888/" target="_blank">:tada: Echarts 后台监控项目 :tada:</a>
 </br>
 </br>
 <a style="color:skyblue;font-size:28px" href="/interview/leetcode/">:tada: LeetCode 刷题 :tada:</a>
