@@ -26,10 +26,7 @@ module.exports = [{
   }, {
     text: 'CSS',
     link: '/htmlcss/css/'
-  }, {
-    text: '前端特效',
-    link: '/htmlcss/animation/'
-  }, ]
+  }]
 }, {
   text: 'JavaScript',
   link: '/javascript/'
