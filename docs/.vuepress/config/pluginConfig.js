@@ -13,7 +13,6 @@ module.exports = [
           "/computer/sa/": "数据结构与算法",
           "/computer/np/": "计算机网络",
           "/computer/os/": "操作系统",
-          "/wxapp/": "微信小程序",
           "/interview/": "面经",
         }
       },

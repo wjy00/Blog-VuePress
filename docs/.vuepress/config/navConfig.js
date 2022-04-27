@@ -40,9 +40,6 @@ module.exports = [{
     link: '/frame/vue/'
   }]
 }, {
-  text: '微信小程序',
-  link: '/wxapp/'
-}, {
   text: '其他知识',
   items: [{
     text: 'GIT',
